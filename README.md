@@ -10,3 +10,5 @@ The project has two Key/Value combinations included:
 - FName/float
 
 The project also includes an example on how to make the KeyedArray work with replication through the provided ActorComponents.
+
+![image](https://user-images.githubusercontent.com/50085636/202844059-83e86d89-e0a9-47b5-91d9-0a6216f07f37.png)
